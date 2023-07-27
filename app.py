@@ -28,7 +28,7 @@ def chat_app(input, history):
 block = gr.Blocks()
 
 with block:
-    gr.Markdown("""<h1><center>ITENAS COMPUTER VISION BOT PRO</center></h1>""")
+    gr.Markdown("""<h1><center>ITENAS COMVIS BOT</center></h1>""")
     chatbot = gr.Chatbot()
     message = gr.Textbox(placeholder="Type your message here...")
     state = gr.State()
