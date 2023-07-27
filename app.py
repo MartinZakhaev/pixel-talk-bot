@@ -35,7 +35,7 @@ with block:
     gr.Markdown("""
                 <footer>
                     <p>ITENAS</p>
-                    <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+                    <img src="https://imgur.com/tgQvzLi" alt="ITENAS logo" width="100" height="50">
                 </footer>
     """)
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
