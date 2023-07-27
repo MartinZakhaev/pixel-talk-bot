@@ -32,6 +32,12 @@ with block:
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
     submit = gr.Button("SEND")
+    gr.Markdown("""
+                <footer>
+                    <p>ITENAS</p>
+                    <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+                </footer>
+    """)
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
 
 block.launch()
