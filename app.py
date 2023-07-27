@@ -28,11 +28,11 @@ def chat_app(input, history):
 block = gr.Blocks(gr.themes.Soft())
 
 with block:
-    # gr.Markdown("""<h1><center>ITENAS COMVIS BOT</center></h1>""")
     chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
     submit = gr.Button("SEND")
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
+    raise gr.Error("This is just a test error")
 
 block.launch()
