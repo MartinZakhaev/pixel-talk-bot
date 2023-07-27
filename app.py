@@ -32,8 +32,7 @@ with block:
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
     submit = gr.Button("SEND")
-    if message == "andika":
-        raise gr.Error("hello andika")
+    css = "footer {visibility: hidden}"
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
 
 block.launch()
