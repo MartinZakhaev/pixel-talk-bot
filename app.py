@@ -35,7 +35,7 @@ with block:
     gr.Markdown("""
                 <footer>
                     <p>ITENAS</p>
-                    <img src="https://imgur.com/tgQvzLi" alt="ITENAS logo" width="100" height="50">
+                    <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1134095848192622612/logo_itenas.png" alt="ITENAS logo" width="100" height="50">
                 </footer>
     """)
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
