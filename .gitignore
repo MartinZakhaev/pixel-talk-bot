@@ -3,4 +3,5 @@ flagged/
 *.jpg
 *.mp4
 *.mkv
+.env
 gradio_cached_examples/

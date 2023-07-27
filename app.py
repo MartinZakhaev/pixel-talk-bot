@@ -38,4 +38,4 @@ with block:
     submit = gr.Button("SEND")
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
 
-block.launch(share=True)
+block.launch()
