@@ -25,7 +25,7 @@ def chat_app(input, history):
     history.append((input, output))
     return history, history
 
-block = gr.Blocks(gr.themes.Monochrome())
+block = gr.Blocks(gr.themes.Glass())
 
 with block:
     gr.Markdown("""<h1><center>ITENAS COMVIS BOT</center></h1>""")
