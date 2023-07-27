@@ -32,7 +32,8 @@ with block:
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
     submit = gr.Button("SEND")
+    if message == None:
+        raise gr.Error("This is just a test error")
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
-    raise gr.Error("This is just a test error")
 
 block.launch()
