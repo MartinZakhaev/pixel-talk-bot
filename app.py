@@ -4,7 +4,7 @@ import os
 
 openai.api_key = os.getenv("OPEN_AI_API_KEY")
 
-messages = [{"role": "system", "content": "Kamu adalah seorang ahli yang mempunyai spesialisasi dalam bidang perbaikan printer"}]
+messages = [{"role": "system", "content": "Kamu adalah seorang ahli bernama andy yang mempunyai spesialisasi dalam bidang computer vision"}]
 
 def get_chat_response(user_input):
     messages.append({"role": "user", "content": user_input})
