@@ -34,8 +34,8 @@ with block:
     submit = gr.Button("SEND")
     gr.Markdown("""
                 <footer>
-                    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134096645945045052/logo_itenas_white.png" alt="ITENAS logo" width="60px" height="20px">
-                    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="60px" height="20px">
+                    <img style="display: block; margin-left: 0px; margin-right: auto;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134096645945045052/logo_itenas_white.png" alt="ITENAS logo" width="60px" height="20px">
+                    <img style="display: block; margin-left: auto; margin-right: 0px;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="60px" height="20px">
                 </footer>
     """)
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
