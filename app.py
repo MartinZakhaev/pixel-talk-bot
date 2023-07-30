@@ -28,16 +28,16 @@ def chat_app(input, history):
 block = gr.Blocks(gr.themes.Soft())
 
 with block:
+    chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
+    message = gr.Textbox(label="Message", placeholder="Type your message here...")
+    state = gr.State()
+    submit = gr.Button("SEND")
     gr.Markdown("""
                 <footer>
                     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134096645945045052/logo_itenas_white.png" alt="ITENAS logo" width="60px" height="20px">
                     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="60px" height="20px">
                 </footer>
     """)
-    chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
-    message = gr.Textbox(label="Message", placeholder="Type your message here...")
-    state = gr.State()
-    submit = gr.Button("SEND")
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
 
 block.launch()
