@@ -37,7 +37,7 @@ with block:
     chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
-    submit = gr.Button("SEND")
+    submit = gr.Button(variant="primary", value="SEND")
     submit.click(chat_app, inputs=[message, state], outputs=[chatbot, state])
 
 block.launch()
