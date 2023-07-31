@@ -30,8 +30,8 @@ block = gr.Blocks(gr.themes.Soft(), title="ITENAS COMVIS BOT")
 with block:
     gr.Markdown("""
                 <footer>
-                    <img style="display: inline-block; text-align: left;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1135412968079769710/logo_itenas_black.png" alt="ITENAS logo" width="100px" height="50px">
-                    <img style="display: inline-block; float: right;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="100px" height="50px">
+                    <img style="display: inline-block; text-align: left; vertical-align: middle;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1135412968079769710/logo_itenas_black.png" alt="ITENAS logo" width="100px" height="50px">
+                    <img style="display: inline-block; float: right; vertical-align: middle;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="100px" height="50px">
                 </footer>
     """)
     chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
