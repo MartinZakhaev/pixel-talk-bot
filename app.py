@@ -25,7 +25,7 @@ def chat_app(input, history):
     history.append((input, output))
     return history, history
 
-block = gr.Blocks(theme=gr.themes.Soft(), title="ITENAS COMVIS BOT")
+block = gr.Blocks(theme=gr.themes.Soft(), title="PixelTalkBot")
 
 with block:
     gr.Markdown("""
@@ -34,7 +34,7 @@ with block:
                     <img style="display: inline-block; margin-left: 10px;" src="https://cdn.discordapp.com/attachments/1072210515457224754/1134098140853702729/logo_kmmi.png" alt="ITENAS logo" width="100px" height="50px">
                 </footer>
     """)
-    chatbot = gr.Chatbot(label="ITENAS COMVIS BOT")
+    chatbot = gr.Chatbot(label="PixelTalkBot")
     message = gr.Textbox(label="Message", placeholder="Type your message here...")
     state = gr.State()
     submit = gr.Button(variant="primary", value="SEND")
