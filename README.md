@@ -25,11 +25,11 @@
     An awesome README template to jumpstart your projects!
     <br />
     <br />
-    <a href="https://terra-corner.vercel.app/">View Demo</a>
+    <a href="https://marshallzee-itenas-computer-vision-bot.hf.space/">View Demo</a>
     ·
-    <a href="https://github.com/MartinZakhaev/terra-corner-frontend/issues">Report Bug</a>
+    <a href="https://github.com/MartinZakhaev/pixel-talk-bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MartinZakhaev/terra-corner-frontend/issues">Request Feature</a>
+    <a href="https://github.com/MartinZakhaev/pixel-talk-bot/issues">Request Feature</a>
   </p>
 </div>
 
