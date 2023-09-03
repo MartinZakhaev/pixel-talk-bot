@@ -57,6 +57,7 @@
 ## About The Project
 
 ![image](https://github.com/MartinZakhaev/pixel-talk-bot/assets/78039794/bf2cf150-0f2c-44f2-9817-474765a9a883)
+![image](https://github.com/MartinZakhaev/pixel-talk-bot/assets/78039794/0a339d10-a85c-4221-8e2d-6f2dde38b479)
 
 Welcome to Pixel Talk Bot, your all-in-one virtual assistant designed to assist computer vision students and answer a wide range of questions, not limited to computer vision topics. Whether you're seeking guidance on computer vision concepts or need assistance with any other inquiries, Pixel Talk Bot is here to help. This project aims to provide an intuitive web-based interface for users to interact with the virtual assistant, making learning and problem-solving more accessible.
 
