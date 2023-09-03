@@ -2,7 +2,7 @@ import gradio as gr
 import openai
 import os
 
-openai.api_key = os.getenv("OPEN_AI_API_KEY")
+// openai.api_key = os.getenv("OPEN_AI_API_KEY")
 
 messages = [{"role": "system", "content": "Kamu adalah seorang ahli bernama andy yang mempunyai spesialisasi dalam bidang computer vision"}]
 
