@@ -56,10 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/9313d1f8-235c-4193-8293-3078dd36fd1f)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/35b334d3-0811-46b2-911a-f2456d7df955)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/c30fe5ec-6e2b-42da-bc87-06c49ce057e2)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/ac3f17b7-50a1-4728-bc03-ff2fa9eff1b7)
+![image](https://github.com/MartinZakhaev/pixel-talk-bot/assets/78039794/bf2cf150-0f2c-44f2-9817-474765a9a883)
 
 Welcome to Pixel Talk Bot, your all-in-one virtual assistant designed to assist computer vision students and answer a wide range of questions, not limited to computer vision topics. Whether you're seeking guidance on computer vision concepts or need assistance with any other inquiries, Pixel Talk Bot is here to help. This project aims to provide an intuitive web-based interface for users to interact with the virtual assistant, making learning and problem-solving more accessible.
 
