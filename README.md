@@ -16,10 +16,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1134096645945045052/logo_itenas_white.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1072210515457224754/1134096645945045052/logo_itenas_white.png" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">TERRA CORNER</h3>
+  <h3 align="center">Pixel Talk Bot</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
