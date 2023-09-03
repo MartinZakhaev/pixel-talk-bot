@@ -61,7 +61,7 @@
 ![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/c30fe5ec-6e2b-42da-bc87-06c49ce057e2)
 ![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/ac3f17b7-50a1-4728-bc03-ff2fa9eff1b7)
 
-Welcome to Terra Corner, a web-based chatting application that aims to connect users through channels and direct messages (DMs). This project focuses on creating an interactive and user-friendly platform where users can communicate, collaborate, and build communities. With Terra Corner, you can create channels, invite other users, and have private conversations with ease.
+Welcome to Pixel Talk Bot, your all-in-one virtual assistant designed to assist computer vision students and answer a wide range of questions, not limited to computer vision topics. Whether you're seeking guidance on computer vision concepts or need assistance with any other inquiries, Pixel Talk Bot is here to help. This project aims to provide an intuitive web-based interface for users to interact with the virtual assistant, making learning and problem-solving more accessible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Andika Wahyu Syaputra - andikawahyusyaputra@gmail.com
 
-Project Link: https://github.com/MartinZakhaev/terra-corner-frontend
+Project Link: https://github.com/MartinZakhaev/pixel-talk-bot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,11 +104,6 @@ Project Link: https://github.com/MartinZakhaev/terra-corner-frontend
 I would like to express my gratitude to the following individuals, organizations, and / or resources for their invaluable contributions and support in making this project a reality:
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Js](https://react.dev/)
-* [Node Js]( https://nodejs.org/en)
-* [Express Js](https://expressjs.com/)
-* [React Hot Toast](https://react-hot-toast.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
