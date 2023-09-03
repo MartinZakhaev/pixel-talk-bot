@@ -65,12 +65,9 @@ Welcome to Pixel Talk Bot, your all-in-one virtual assistant designed to assist 
 
 ### Built With
 
-* [![React.Js][React.Js]][React-url]
-* [![Node.Js][Node.Js]][Node-url]
-* [![Express][Express.Js]][Express-url]
-* [![HTML][HTML5]][HTML-url]
-* [![CSS][CSS3]][CSS-url]
-* [![JS][JavaScript]][JS-url]
+* [![Python][Python]][PY-url]
+* [![Gradio][Gradio]][Gradio-url]
+* [![OpenAI][OpenAI]][OpenAI-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,4 +122,11 @@ I would like to express my gratitude to the following individuals, organizations
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JavaScript]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python
+[PY-url]: https://www.python.org/
+[Gradio]: https://img.shields.io/badge/Gradio-20232A?style=for-the-badge&logo=gd
+[Gradio-url]: https://www.gradio.app/
+[OpenAI]: https://img.shields.io/badge/OpenAi-20232A?style=for-the-badge&logo=openai
+[OpenAI-url]: https://openai.com/
+
 
