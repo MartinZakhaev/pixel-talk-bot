@@ -22,7 +22,7 @@
   <h3 align="center">Pixel Talk Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Catalyzing Curiosity, One Answer at a Time
     <br />
     <br />
     <a href="https://marshallzee-itenas-computer-vision-bot.hf.space/">View Demo</a>
